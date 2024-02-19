@@ -8,8 +8,6 @@
 
 🌱 I’m currently learning Next.js
 
-🤔 I’m looking for help with ...
-
 💬 Ask me about Frontend Technologies
 
 📫 How to reach me: [My Portfolio] (https://madhu-sudan-portfolio.vercel.app/)
