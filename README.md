@@ -14,5 +14,11 @@
 
 ❤️ I love to play FPS games
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+My Skills 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,redux,nodejs,express,postman,docker,git,github,npm,yarn,vite,twitter" />
+  </a>
+</p>
 
