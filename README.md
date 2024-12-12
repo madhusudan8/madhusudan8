@@ -14,3 +14,5 @@
 
 ❤️ I love to play FPS games
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
