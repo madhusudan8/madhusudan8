@@ -11,7 +11,7 @@ I'm a Frontend developer, designer, and community moderator, currently balancing
 </p>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=madhusudan8&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
