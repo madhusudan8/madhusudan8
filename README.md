@@ -10,5 +10,6 @@ I'm a Frontend developer, designer, and community moderator, currently balancing
   </a>
 </p>
 📫 How to reach me: [My Portfolio] (https://madhu-sudan-portfolio.vercel.app/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
