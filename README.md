@@ -9,7 +9,6 @@ I'm a Frontend developer, designer, and community moderator, currently balancing
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,redux,nodejs,express,postman,docker,git,github,npm,yarn,vite,twitter" />
   </a>
 </p>
-📫 How to reach me: [My Portfolio] (https://madhu-sudan-portfolio.vercel.app/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
