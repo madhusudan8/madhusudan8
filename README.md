@@ -1,4 +1,4 @@
-### Hi there 👋
+<b>### Hi there 👋<b/>
 
 I'm a Frontend developer, designer, and community moderator, currently balancing my passion for coding with being a high school student. I’m deeply interested in development, moderation, and building thriving online communities.
 
