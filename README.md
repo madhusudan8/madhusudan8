@@ -5,6 +5,7 @@ I'm a Frontend developer, designer, and community moderator, currently balancing
 🔧 I work on random projects during my free time, especially those involving Discord and creating tools for better user experiences.
 
 <p align="center">
+  <p>💻 MY TECH STCK</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,redux,nodejs,express,postman,docker,git,github,npm,yarn,vite,twitter" />
   </a>
